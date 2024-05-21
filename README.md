@@ -35,9 +35,9 @@ Formação JavaScript Developer|[Certificado](https://www.dio.me/certificate/Q7S
 
 ---
 
-<div  display="inline-block">
+<div  align="center">
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysoaresc&layout=compact&langs_count=7&theme=dracula" ><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleysoaresc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  >
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weslleysoaresc&layout=compact&langs_count=7&theme=dracula" ><img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api?username=weslleysoaresc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"  >
 
 </div>
 <div>
